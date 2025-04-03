@@ -1,5 +1,5 @@
 <h1 align="center">
-  BeiGene DocsGPT
+  DocsGPT
 </h1>
 
 ## Project Structure
